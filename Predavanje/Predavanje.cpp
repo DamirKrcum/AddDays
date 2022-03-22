@@ -65,7 +65,7 @@ public:
 					brojDana -= 1;
 				}
 				_godina++;
-				brojac++;
+				brojac++; // broji iteracije za povecanje godine
 
 			}
 			if (brojDana >= danaDoKrajaMjeseca) {
